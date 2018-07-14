@@ -1,7 +1,7 @@
 ---
 ID: 212
 post_title: 帳號管理
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: page
 permalink: >

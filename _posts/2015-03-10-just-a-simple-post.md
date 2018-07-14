@@ -1,7 +1,7 @@
 ---
 ID: 137
 post_title: Just a simple post
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: post
 permalink: >

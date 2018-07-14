@@ -1,7 +1,7 @@
 ---
 ID: 211
 post_title: 登出
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: page
 permalink: >

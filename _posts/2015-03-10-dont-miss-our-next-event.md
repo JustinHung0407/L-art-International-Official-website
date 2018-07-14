@@ -1,7 +1,7 @@
 ---
 ID: 144
 post_title: 'Don&#8217;t miss our next event'
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: post
 permalink: >

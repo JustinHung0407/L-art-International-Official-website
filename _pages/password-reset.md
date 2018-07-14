@@ -1,7 +1,7 @@
 ---
 ID: 213
 post_title: 重置密碼
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: page
 permalink: >

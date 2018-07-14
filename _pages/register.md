@@ -1,7 +1,7 @@
 ---
 ID: 205
 post_title: 註冊
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: page
 permalink: >

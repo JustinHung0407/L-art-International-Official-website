@@ -1,7 +1,7 @@
 ---
 ID: 1
 post_title: Hello world! 哈囉！
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: post
 permalink: >

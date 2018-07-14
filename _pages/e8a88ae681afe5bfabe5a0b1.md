@@ -1,7 +1,7 @@
 ---
 ID: 24
 post_title: 訊息快報
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: page
 permalink: 'http://www.leartinternational.url.tw/wordpress/%e8%a8%8a%e6%81%af%e5%bf%ab%e5%a0%b1/'

@@ -1,7 +1,7 @@
 ---
 ID: 25
 post_title: 談天說地
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: page
 permalink: 'http://www.leartinternational.url.tw/wordpress/%e8%ab%87%e5%a4%a9%e8%aa%aa%e5%9c%b0/'

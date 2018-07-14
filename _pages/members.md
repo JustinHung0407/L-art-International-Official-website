@@ -1,7 +1,7 @@
 ---
 ID: 207
 post_title: Members
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: page
 permalink: >

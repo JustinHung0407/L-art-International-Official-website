@@ -1,7 +1,7 @@
 ---
 ID: 68
 post_title: Sample Page
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: page
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 141
 post_title: A day at the office
-author: justin
+author: Justin Hung
 post_excerpt: ""
 layout: post
 permalink: >
