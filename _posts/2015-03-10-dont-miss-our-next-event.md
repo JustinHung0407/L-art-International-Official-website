@@ -1,6 +1,6 @@
 ---
 ID: 144
-post_title: 'Don&#8217;t miss our next event'
+post_title: 'Test2 &#8211; Don&#8217;t miss our next event'
 author: Justin Hung
 post_excerpt: ""
 layout: post
