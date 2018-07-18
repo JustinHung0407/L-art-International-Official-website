@@ -5,7 +5,7 @@ author: Justin Hung
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.leartinternational.url.tw/wordpress/
+  http://www.leartinternational.url.tw/wordpress/streaming/
 published: true
 post_date: 2018-07-14 18:53:09
 ---
