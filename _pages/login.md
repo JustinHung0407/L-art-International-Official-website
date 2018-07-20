@@ -3,9 +3,9 @@ ID: 28
 post_title: 登入
 author: justin
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  https://www.leartinternational.com/wordpress/2018/07/21/login/
+  https://www.leartinternational.com/wordpress/login/
 published: true
 post_date: 2018-07-21 01:53:42
 ---
