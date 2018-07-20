@@ -3,9 +3,9 @@ ID: 38
 post_title: 重置密碼
 author: justin
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  https://www.leartinternational.com/wordpress/2018/07/21/password-reset/
+  https://www.leartinternational.com/wordpress/password-reset/
 published: true
 post_date: 2018-07-21 01:57:30
 ---
