@@ -1,12 +1,12 @@
 ---
-ID: 201
+ID: 26
 post_title: 用戶
-author: Justin Hung
+author: justin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.leartinternational.url.tw/wordpress/user/
+  https://www.leartinternational.com/wordpress/user/
 published: true
-post_date: 2018-07-05 23:50:05
+post_date: 2018-07-21 01:53:26
 ---
-[ultimatemember form_id=199]
+[ultimatemember form_id=24]
