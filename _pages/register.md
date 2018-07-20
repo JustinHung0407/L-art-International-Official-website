@@ -1,12 +1,12 @@
 ---
-ID: 205
+ID: 30
 post_title: 註冊
-author: Justin Hung
+author: justin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.leartinternational.url.tw/wordpress/register/
+  https://www.leartinternational.com/wordpress/register/
 published: true
-post_date: 2018-07-05 23:50:05
+post_date: 2018-07-21 01:54:31
 ---
-[ultimatemember form_id=226]
+[ultimatemember form_id=22]
