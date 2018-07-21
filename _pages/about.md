@@ -5,7 +5,7 @@ author: justin
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.leartinternational.com/contactleart/
+  https://www.leartinternational.com/about/
 published: true
 post_date: 2018-07-21 22:35:42
 ---
