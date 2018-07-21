@@ -5,7 +5,7 @@ author: justin
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.leartinternational.com/wordpress/sample-page/
+  https://www.leartinternational.com/artlecture/
 published: true
 post_date: 2018-07-20 23:10:21
 ---
