@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-07-21 23:01:43
 ---
-[wpforms id="165" title="false" description="false"]
 <div id="primary" class="content-area col-md-9">
    <main id="main" class="post-wrap" role="main">
       <article id="post-132" class="post-132 page type-page status-publish hentry">
