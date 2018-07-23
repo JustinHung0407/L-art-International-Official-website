@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-07-20 23:10:21
 ---
-<img src="https://www.leartinternational.com/wordpress/wp-content/uploads/2018/07/02-300x143.jpg" alt="" width="300" height="143" class="alignnone size-medium wp-image-41" />這是一個範例講座。它和網誌文章不同，因為它的頁面位置是固定的，同時會顯示於你的網站導覽選單（大多數的佈景主題都會顯示）。大多數的人會新增一個「關於」頁面向訪客介紹自己。它可能類似下面這樣：
+<img src="https://www.leartinternational.com/wordpress/wp-content/uploads/2018/07/02-300x143.jpg" alt="" width="300" height="143" class="alignnone size-medium wp-image-41" />
+<div>這是一個範例講座。它和網誌文章不同，因為它的頁面位置是固定的，同時會顯示於你的網站導覽選單（大多數的佈景主題都會顯示）。大多數的人會新增一個「關於」頁面向訪客介紹自己。它可能類似下面這樣：
 <blockquote>男性觀點討論「女性靈魂深處的慾望」</blockquote>
 or
 <blockquote>XYZ Doohickey Comany 成立於 1971 年，公司成立以來，我們一直向市民提供高品質的 doohickies 。我們位於台北市，有超過 2,000 名員工，對台北市政府有著相當大的貢獻。</blockquote>
@@ -30,3 +31,4 @@ or
 
 圖：Dancing in the sunset, LZZ, (Oil painting)
 文：帥氣建築師、暖男設計師、金牌製作人+Anderson
+</div>
