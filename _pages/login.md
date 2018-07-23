@@ -5,7 +5,7 @@ author: justin
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.leartinternational.com/wordpress/login/
+  https://www.leartinternational.com/login/
 published: true
 post_date: 2018-07-21 01:53:42
 ---
