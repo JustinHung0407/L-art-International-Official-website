@@ -12,11 +12,7 @@ post_date: 2018-07-20 23:10:21
 <div class="video-container" align="center">
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleartpass%2Fvideos%2F623787747982339%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-
 </div>
-
-
-<img src="https://www.leartinternational.com/wordpress/wp-content/uploads/2018/07/02-300x143.jpg" alt="" width="300" height="143" class="alignnone size-medium wp-image-41" />
 
 <div>這是一個範例講座。它和網誌文章不同，因為它的頁面位置是固定的，同時會顯示於你的網站導覽選單（大多數的佈景主題都會顯示）。大多數的人會新增一個「關於」頁面向訪客介紹自己。它可能類似下面這樣：
 <blockquote>男性觀點討論「女性靈魂深處的慾望」</blockquote>
