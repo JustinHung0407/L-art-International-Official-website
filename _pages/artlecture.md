@@ -12,14 +12,14 @@ post_date: 2018-07-20 23:10:21
 <div class="video-container" align="center">
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleartpass%2Fvideos%2F623787747982339%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-</div>
 
-<div>這是一個範例講座。它和網誌文章不同，因為它的頁面位置是固定的，同時會顯示於你的網站導覽選單（大多數的佈景主題都會顯示）。大多數的人會新增一個「關於」頁面向訪客介紹自己。它可能類似下面這樣：
+</div>
+<div>
+
+這是一個範例講座。
 <blockquote>男性觀點討論「女性靈魂深處的慾望」</blockquote>
 or
 <blockquote>XYZ Doohickey Comany 成立於 1971 年，公司成立以來，我們一直向市民提供高品質的 doohickies 。我們位於台北市，有超過 2,000 名員工，對台北市政府有著相當大的貢獻。</blockquote>
-作為一個新的 WordPress 使用者，你可以前往<a href="http://www.leartinternational.com/wordpress/wp-admin/">你的控制台</a>刪除這個頁面，並建立一個屬於你的全新內容。祝使用愉快！
-
 
 台北展出的主題：「Soulmate 慾X女」，Anderson邀請不同領域的男性或女性朋友一起探討心裡面對女性靈魂深處的慾望。
 
@@ -35,4 +35,5 @@ or
 
 圖：Dancing in the sunset, LZZ, (Oil painting)
 文：帥氣建築師、暖男設計師、金牌製作人+Anderson
+
 </div>
