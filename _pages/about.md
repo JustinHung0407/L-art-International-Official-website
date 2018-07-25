@@ -1,6 +1,6 @@
 ---
 ID: 250
-post_title: 關於樂亞
+post_title: My front page
 author: justin
 post_excerpt: ""
 layout: page
