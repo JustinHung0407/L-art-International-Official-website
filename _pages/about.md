@@ -1,11 +1,11 @@
 ---
 ID: 250
-post_title: My front page
+post_title: 關於樂亞
 author: justin
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.leartinternational.com/my-front-page/
+  https://www.leartinternational.com/about/
 published: true
 post_date: 2015-03-09 10:34:11
 ---
