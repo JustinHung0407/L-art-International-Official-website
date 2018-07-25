@@ -35,10 +35,10 @@ Pick up the phone<br></p>
 					Twitter
 				</a>
 							<a href="" target="_blank">
-					Google-plus
+					Weixin
 				</a>
 							<a href="" target="_blank">
-					Pinterest
+					Whatsapp
 				</a>
 							<a href="" target="_blank">
 					Instagram
