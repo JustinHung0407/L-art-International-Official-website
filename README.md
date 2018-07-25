@@ -10,22 +10,9 @@ Made by Wordpress ,Bootstrap 3 and Font Awesome
 
 Buy and Install Sydney on Wordpress
 
-### Installing
 
-demo
+### Plugin
 
-
-## Running the tests
-
-demo
-
-### Break down into end to end tests
-
-demo
-
-### And coding style tests
-
-demo
 
 ## Deployment
 
