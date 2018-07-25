@@ -26,13 +26,5 @@ post_date: 2015-03-09 10:34:11
 			<h3>Our story</h3>		
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis velit metus. Morbi non augue non sapien ullamcorper volutpat id a libero. Curabitur maximus vel est ac suscipit. Pellentesque imperdiet ultricies interdum. </p><p>Nunc elementum porta tempus. In gravida nisi at dui eleifend lobortis. Vestibulum lobortis, leo at laoreet ornare, ante lectus commodo nisl, varius pellentesque velit justo eget purus.  Aliquam tortor massa, elementum at tellus. </p>https://www.youtube.com/watch?v=9uOETcuFjbE		
 				<figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/darkside-ntmy6vxngglius1i84dv1zckqye7f0w3clec8bxn8o.png" alt="darkside.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/zusman-ntmy6wvhnamt6e052mshmh41cc9kmpztoq1tplw92g.png" alt="zusman.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/ARMOND-ntmy6xtbu4o3hzyrx5746yvhxq4xuf3k0upb6vuuw8.png" alt="ARMOND.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/larozse-ntmy6xtbu4o3hzyrx5746yvhxq4xuf3k0upb6vuuw8.png" alt="larozse.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/ECOCODE-ntmy6yr60ypdtlxernlqrgmyj40b247aczcso5tgq0.png" alt="ECOCODE.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/BOLEIR-ntmy6yr60ypdtlxernlqrgmyj40b247aczcso5tgq0.png" alt="BOLEIR.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/GEO-ntmy6zp07sqo57w1m60dbyef4hvo9tb0p40a5fs2js.png" alt="GEO.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/x.venox_-ntmy70muemrygtuogoezwg5vpvr1hier18nrmpqodk.png" alt="x.venox_.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/FIFTHFLOUR-ntmy70muemrygtuogoezwg5vpvr1hier18nrmpqodk.png" alt="FIFTHFLOUR.png" /></figure>			
-				0
-							Art
-				0
-							Viewer
-				0
-							Design
-				0
-							Design
 			<h2>Where are we?</h2>		
 			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E5%BD%8C%E6%95%A6%E9%81%93582-592%E8%99%9F&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near" aria-label="香港旺角彌敦道582-592號"></iframe>
