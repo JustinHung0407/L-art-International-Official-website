@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-20 23:10:21
 ---
-https://www.youtube.com/watch?v=9uOETcuFjbE
+https://www.facebook.com/leartpass/videos/603596053334842/
 
 這是一個範例講座。
 <blockquote>男性觀點討論「女性靈魂深處的慾望」</blockquote>
