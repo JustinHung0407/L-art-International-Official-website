@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-03-09 10:34:11
 ---
-<h2>About Us</h2>		
+<h4>關於樂亞</h4>		
 		<p>If you want to learn more about us, you're in the right place. Read to learn how we managed to grow our business so fast.</p>		
 				<h3>
 					Youtube
