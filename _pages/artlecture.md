@@ -46,3 +46,18 @@ position:absolute;
 }
 </style>
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleartpass%2Fvideos%2F612613765766404%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+					<h4 id="elementor-tab-title-7664" tabindex="7664" data-tab="4" role="tab" aria-controls="elementor-tab-content-7664">
+												2018/6/8  薇光旅程  阮丹青專訪					</h4>
+					<style>
+.facebook-responsive {  overflow:hidden;<br />
+padding-bottom:56.25%;    position:relative;<br />
+height:0;}<br />
+.facebook-responsive iframe {<br />
+left:0;<br />
+top:0;<br />
+height:100%;<br />
+width:100%;<br />
+position:absolute;<br />
+}<br />
+</style>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleartpass%2Fvideos%2F623787747982339%2F&#038;show_text=0&#038;width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
