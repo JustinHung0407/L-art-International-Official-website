@@ -10,10 +10,8 @@ published: true
 post_date: 2018-07-20 23:10:21
 ---
 2018/4/28  全球藝術市場現況探討 艋舺龍山文創B2​					
+					<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleartpass%2Fvideos%2F603596053334842%2F&#038;show_text=0&#038;width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 												2018/4/19  人工智慧的奇異樂園   楊雲浩專訪  國父紀念館 					
-					我是項目內容，點擊編輯按鈕以變更這個文本。 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-			<h3>2018/4/28  全球藝術市場現況探討 艋舺龍山文創B2</h3>		
-			<h3>2018/4/19  人工智慧的奇異樂園   楊雲浩專訪  國父紀念館 </h3>		
-		https://www.youtube.com/watch?v=sY8oZPE28vc&#038;t=140s		
-			<h3>2018/5/16  2018台北新藝術博覽會-快閃直播贈票活動</h3>		
-		https://www.facebook.com/leartpass/videos/612613765766404/
+					<p><iframe src="https://www.youtube.com/embed/sY8oZPE28vc" width="1120" height="630" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+												2018/5/16  2018台北新藝術博覽會-快閃直播贈票活動					
+					<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleartpass%2Fvideos%2F612613765766404%2F&#038;show_text=0&#038;width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
