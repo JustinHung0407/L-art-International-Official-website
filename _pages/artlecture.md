@@ -34,17 +34,15 @@ post_date: 2018-07-20 23:10:21
 					<h4 id="elementor-tab-title-7663" tabindex="7663" data-tab="3" role="tab" aria-controls="elementor-tab-content-7663">
 												2018/5/16  2018台北新藝術博覽會-快閃直播贈票活動					</h4>
 					<style>
-.facebook-responsive {<br />
-    overflow:hidden;<br />
-    padding-bottom:56.25%;<br />
-    position:relative;<br />
-    height:0;<br />
-}</p>
-<p>.facebook-responsive iframe {<br />
-    left:0;<br />
-    top:0;<br />
-    height:100%;<br />
-    width:100%;<br />
-    position:absolute;<br />
-}</style>
+.facebook-responsive {  overflow:hidden;
+padding-bottom:56.25%;    position:relative;
+height:0;}
+.facebook-responsive iframe {
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+</style>
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleartpass%2Fvideos%2F612613765766404%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
