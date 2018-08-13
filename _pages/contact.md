@@ -28,7 +28,7 @@ post_date: 2018-07-21 23:01:43
 			<p>香港旺角彌敦道582-592號</p>		
 			<h4>加入我們</h4>		
 			<p>追蹤我們以取得最新資訊</p>		
-			<a href="https://www.facebook.com/leartpass/">
+			<a href="https://www.facebook.com/leartpass/" target="_blank">
 			</a>
 			<h5><a href="https://www.facebook.com/leartpass/">Facebook</a></h5>		
 			<h5>WeChat</h5>		
