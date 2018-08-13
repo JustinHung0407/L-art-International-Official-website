@@ -8,4 +8,3 @@ permalink: https://www.leartinternational.com/chat/
 published: true
 post_date: 2018-08-13 17:24:09
 ---
-<?php query_posts(‘showposts=10 & cat=chat‘);?>
