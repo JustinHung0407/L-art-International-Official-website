@@ -10,7 +10,7 @@ published: true
 post_date: 2015-03-09 10:34:11
 ---
 <h4>關於樂亞</h4>		
-		<p>If you want to learn more about us, you're in the right place. Read to learn how we managed to grow our business so fast.</p>		
+		<p>LE ART源自「L‘espace de L’art」，在法文中的原意是充滿藝術的空間在1982年為了紀念在法國藝術史上被畢卡索(Pablo Picasso 1881-1973)視為生平最大對手的亨利·馬蒂斯(Henri Matisse 1896-1954)，於是正式轉動了這個藝地空間的鑰匙。</p>		
 				<h3>
 					Youtube
 				</h3>
@@ -22,7 +22,12 @@ post_date: 2015-03-09 10:34:11
 				<h3>
 					Twitter
 				</h3>
-				<p>this is just  an example text<br>for you guys to put some artists</p>
+				<p>this is just  an example text<br>for you guys to put some artis</p>
 			<h3>Our story</h3>		
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis velit metus. Morbi non augue non sapien ullamcorper volutpat id a libero. Curabitur maximus vel est ac suscipit. Pellentesque imperdiet ultricies interdum. </p><p>Nunc elementum porta tempus. In gravida nisi at dui eleifend lobortis. Vestibulum lobortis, leo at laoreet ornare, ante lectus commodo nisl, varius pellentesque velit justo eget purus.  Aliquam tortor massa, elementum at tellus. </p>https://www.youtube.com/watch?v=xaZdt2isEKM		
+		<p>        事實上，作為野獸派的先驅之一，馬蒂斯在作品中展現了大膽的色彩運用，強烈的情感，和拒絕自然現實的啟發，從米勒(Jean-François Millet 1814-1875)的寫實主義到塞尚(Paul Cézanne 1839-1906)的形式主義美學影響了後來莫內(Claude Monet 1840-1926)的印象派畫風，多元的法國總是包容了各式風格。</p><p>        時而低調含蓄時而狂野奔放，這是在LE ART所建構的藝地空間中都能細細品嚐中西方的畫風， LE ART鼓勵當代藝術家持續突破，讓下一個大藝術家可以藉由LE ART 走向國際藝術殿堂，同時我們也讓更多藝術品的種類讓全世界看見。</p>		
+							Viva la art! L'espace de l'art.
+							<img src="https://www.leartinternational.com/wordpress/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />						
+													Anderson
+																			Designer
+		https://www.youtube.com/watch?v=xaZdt2isEKM		
 				<figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/darkside-ntuv0hbdw6ztho4hfsla00u31hqgvxy5f67emattyg.png" alt="darkside.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/zusman-ntuv0ehvbovyiu8kw9deajjp9c4d8umyes8y6gy0h4.png" alt="zusman.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/ARMOND-ntuv0aqikcqt8ee1i7qw0khuvsmwe28129n09d3l60.png" alt="ARMOND.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/larozse-ntuv07wzzumy9ki4yoj0b37h3n0sqywu1vojtj7roo.png" alt="larozse.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/ECOCODE-ntmy6yr60ypdtlxernlqrgmyj40b247aczcso5tgq0.png" alt="ECOCODE.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/BOLEIR-ntuv00eah6cnoot26l9zr53sck1v1e2zcugnzbix2g.png" alt="BOLEIR.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/GEO-ntuuzxkrwo8spux5n2241ntekefrearscgi7jhn3l4.png" alt="GEO.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/x.venox_-ntuuzttf5c3nff2m90flrork6uyajicuzxw9mdsoa0.png" alt="x.venox_.png" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/elementor/thumbs/FIFTHFLOUR-ntuuzqzwktzsgl6pph7q27h6epc6wf1nzjxt6jwuso.png" alt="FIFTHFLOUR.png" /></figure>
