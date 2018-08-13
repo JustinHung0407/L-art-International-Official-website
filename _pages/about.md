@@ -23,7 +23,7 @@ post_date: 2015-03-09 10:34:11
 					Twitter
 				</h3>
 				<p>this is just  an example text<br>for you guys to put some artis</p>
-			<h3>Our story</h3>		
+			<h2>小故事</h2>		
 		<p>        事實上，作為野獸派的先驅之一，馬蒂斯在作品中展現了大膽的色彩運用，強烈的情感，和拒絕自然現實的啟發，從米勒(Jean-François Millet 1814-1875)的寫實主義到塞尚(Paul Cézanne 1839-1906)的形式主義美學影響了後來莫內(Claude Monet 1840-1926)的印象派畫風，多元的法國總是包容了各式風格。</p><p>        時而低調含蓄時而狂野奔放，這是在LE ART所建構的藝地空間中都能細細品嚐中西方的畫風， LE ART鼓勵當代藝術家持續突破，讓下一個大藝術家可以藉由LE ART 走向國際藝術殿堂，同時我們也讓更多藝術品的種類讓全世界看見。</p>		
 							Viva la art! L'espace de l'art.
 							<img src="https://www.leartinternational.com/wordpress/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />						
