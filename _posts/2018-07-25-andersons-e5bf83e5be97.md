@@ -18,4 +18,4 @@ post_date: 2018-07-25 00:13:25
 
 <img class="alignnone size-medium wp-image-686" src="https://www.leartinternational.com/wordpress/wp-content/uploads/2018/07/華燈初上-300x135.jpg" alt="" width="300" height="135" />
 
-華燈初上，入夜後景致更加迷人
+華燈初上，入夜後景致更加迷人<!--more-->
