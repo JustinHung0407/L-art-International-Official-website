@@ -43,11 +43,7 @@ position:absolute;<br />
 .facebook-responsive {  overflow:hidden;<br />padding-bottom:56.25%;    position:relative;<br />height:0;}<br />.facebook-responsive iframe {<br />left:0;<br />top:0;<br />height:100%;<br />width:100%;<br />position:absolute;<br />}<br /></style>
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleartpass%2Fvideos%2F623787747982339%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 			<h2> 2018/4/28  全球藝術市場現況探討 艋舺龍山文創B2​</h2>		
-		<style>
-.facebook-responsive {<br />    overflow:hidden;<br />    padding-bottom:56.25%;<br />    position:relative;<br />    height:0;<br />}</p>
-<p>.facebook-responsive iframe {<br />    left:0;<br />    top:0;<br />    height:100%;<br />    width:100%;<br />    position:absolute;<br />}</style>
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleartpass%2Fvideos%2F603596053334842%2F&amp;show_text=0&amp;width=560" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>		
-			<h2> 2018/4/28  全球藝術市場現況探討 艋舺龍山文創B2​</h2>		
+			<h2>2018/4/19  人工智慧的奇異樂園   楊雲浩專訪  國父紀念館 </h2>		
 		<style>
 .facebook-responsive {<br />    overflow:hidden;<br />    padding-bottom:56.25%;<br />    position:relative;<br />    height:0;<br />}</p>
 <p>.facebook-responsive iframe {<br />    left:0;<br />    top:0;<br />    height:100%;<br />    width:100%;<br />    position:absolute;<br />}</style>
