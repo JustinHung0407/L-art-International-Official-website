@@ -24,4 +24,4 @@ post_date: 2015-03-09 10:34:11
 				</h3>
 				<p>this is just  an example text<br>for you guys to put some artis</p>
 		https://www.youtube.com/watch?v=xaZdt2isEKM		
-				<figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/2018/08/anderson-150x150.jpg" alt="anderson" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/2018/08/william-150x150.jpg" alt="william" /></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/2018/08/LZZ-150x150.jpg" alt="LZZ" /></figure>
+				<figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/2018/08/anderson-150x150.jpg" alt="Anderson" /><figcaption>Anderson</figcaption></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/2018/08/william-150x150.jpg" alt="William" /><figcaption>William</figcaption></figure><figure><img src="https://www.leartinternational.com/wordpress/wp-content/uploads/2018/08/LZZ-150x150.jpg" alt="LZZ" /><figcaption>LZZ</figcaption></figure>
